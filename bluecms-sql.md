@@ -1,5 +1,4 @@
 
-## hello
 I found a sql Injection in bluecms. It's exact location is in line 149 of /uploads/admin/ad_phone.There is no filtering of "id",attacker can attck by using sql injection by control the id that upload by GET.   
 
 As shown in the picture:  
